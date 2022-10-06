@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-weather-api-telegram-bot",
+  "version": "1.0.0",
+  "description": "NodeJS",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirHeyder03/nodejs-weather-api-telegram-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MirHeyder03/nodejs-weather-api-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/MirHeyder03/nodejs-weather-api-telegram-bot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.2.10",
+    "node-telegram-bot-api": "^0.59.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
